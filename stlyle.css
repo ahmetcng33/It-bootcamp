@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.resim{
+    float: left;
+    width: 20%;
+    padding: 1rem;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.bootcamp{
+    border: 3px solid red;
+    margin: 3rem;
+}
+
+h2{
+    padding-top: 1rem;
+    padding-bottom: 0.5rem;
+}
+
+button{
+    
+}
