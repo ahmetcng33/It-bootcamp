@@ -5,10 +5,11 @@
 }
 
 h1{
-    color: wheat;
+    color: white;
     margin-top: 2rem;
     font-family: 'Times New Roman', Times, serif;
     /* font-size: large; */
+    font-size: 5rem;
 }
 
 body{
