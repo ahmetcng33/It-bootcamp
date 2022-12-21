@@ -4,13 +4,20 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: wheat;
+    margin-top: 2rem;
+    font-family: 'Times New Roman', Times, serif;
+    /* font-size: large; */
+}
+
 body{
     background-image: url("matrix-356024_960_720.jpg");
 }
 
 div{
   width: 90%;
-  height: 270px;
+  height: 18rem;
   margin: auto;
   background-color: rgba(255, 255, 255, 0.3);
   margin: 3rem;
@@ -23,14 +30,14 @@ h1{
 
 .resim{
     float: left;
-    width: 33%;
+    width: 30%;
     margin-right: 1rem;
     padding: 1rem;
     cursor: pointer;
 }
 
 .resim:hover{
-    width: 30rem;
+    width: 27rem;
 }
 
 p{
@@ -41,8 +48,9 @@ p{
     clear: both;
 }
 
-.bootcamp{
-    
+.bootcamp:hover{
+    /* width: 40rem;
+    height: ; */
 }
 
 h2{
